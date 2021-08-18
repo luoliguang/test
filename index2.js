@@ -1,5 +1,5 @@
 console.log(121234555);
 console.log('heihei');
-function(numa,numb){
+function computed(numa,numb){
   return numa + numb;
 }
